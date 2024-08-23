@@ -1,0 +1,130 @@
+{
+    "projects":[
+        {
+          "id": 1,
+          "title": "Project Alpha",
+          "slug": "project-alpha",
+          "description": "A groundbreaking project focused on AI development.",
+          "developerName": "Alice Johnson",
+          "isFeatured": true,
+          "image": "alpha.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Project Beta",
+          "slug": "project-beta",
+          "description": "An innovative web app designed for better user interaction.",
+          "developerName": "Bob Smith",
+          "isFeatured": false,
+          "image": "beta.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Project Gamma",
+          "slug": "project-gamma",
+          "description": "A new approach to cloud computing services.",
+          "developerName": "Charlie Lee",
+          "isFeatured": true,
+          "image": "gamma.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Project Delta",
+          "slug": "project-delta",
+          "description": "A mobile app to revolutionize fitness tracking.",
+          "developerName": "Diana Garcia",
+          "isFeatured": false,
+          "image": "delta.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Project Epsilon",
+          "slug": "project-epsilon",
+          "description": "A robust e-commerce platform for small businesses.",
+          "developerName": "Ethan Brown",
+          "isFeatured": true,
+          "image": "epsilon.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Project Zeta",
+          "slug": "project-zeta",
+          "description": "An advanced data analytics tool.",
+          "developerName": "Fiona Davis",
+          "isFeatured": false,
+          "image": "zeta.jpg"
+        },
+        {
+          "id": 7,
+          "title": "Project Eta",
+          "slug": "project-eta",
+          "description": "A cybersecurity solution for enterprises.",
+          "developerName": "George Martin",
+          "isFeatured": true,
+          "image": "eta.jpg"
+        }, {
+          "id": 8,
+          "title": "Project Alpha",
+          "slug": "project-alpha",
+          "description": "A groundbreaking project focused on AI development.",
+          "developerName": "Alice Johnson",
+          "isFeatured": true,
+          "image": "alpha.jpg"
+        },
+        {
+          "id": 9,
+          "title": "Project Beta",
+          "slug": "project-beta",
+          "description": "An innovative web app designed for better user interaction.",
+          "developerName": "Bob Smith",
+          "isFeatured": false,
+          "image": "beta.jpg"
+        },
+        {
+          "id": 10,
+          "title": "Project Gamma",
+          "slug": "project-gamma",
+          "description": "A new approach to cloud computing services.",
+          "developerName": "Charlie Lee",
+          "isFeatured": true,
+          "image": "gamma.jpg"
+        },
+        {
+          "id": 11,
+          "title": "Project Delta",
+          "slug": "project-delta",
+          "description": "A mobile app to revolutionize fitness tracking.",
+          "developerName": "Diana Garcia",
+          "isFeatured": true,
+          "image": "delta.jpg"
+        },
+        {
+          "id": 12,
+          "title": "Project Epsilon",
+          "slug": "project-epsilon",
+          "description": "A robust e-commerce platform for small businesses.",
+          "developerName": "Ethan Brown",
+          "isFeatured": true,
+          "image": "epsilon.jpg"
+        },
+        {
+          "id": 13,
+          "title": "Project Zeta",
+          "slug": "project-zeta",
+          "description": "An advanced data analytics tool.",
+          "developerName": "Fiona Davis",
+          "isFeatured": true,
+          "image": "zeta.jpg"
+        },
+        {
+          "id": 14,
+          "title": "Project Eta",
+          "slug": "project-eta",
+          "description": "A cybersecurity solution for enterprises.",
+          "developerName": "George Martin",
+          "isFeatured": true,
+          "image": "eta.jpg"
+        }
+      ]
+      
+}
